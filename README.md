@@ -8,3 +8,7 @@ An experimental Rust crate that implements supervision trees in the spirit of
 [Erlang/OTP](https://www.erlang.org/doc/design_principles/des_princ).
 
 For details, please refer to the [documentation](https://docs.rs/supertrees).
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/brndnmtthws/supertrees.svg)](https://starchart.cc/brndnmtthws/supertrees)
